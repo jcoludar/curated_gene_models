@@ -13,7 +13,9 @@ Most of these models are not in GenBank or RefSeq.
 | `bee` | 154 | 140 / 12 / 2 | Koludarov et al. 2023, BMC Biol, doi:10.1186/s12915-023-01656-5 |
 | `ant` | 1,787 | 1,737 / 50 / 0 | Weitz et al. 2026, bioRxiv 2026.02.12.705515 (pre-publication) |
 
-The full dataset is on Zenodo (DOI: TBA). This repository holds everything except the FASTA files.
+The full dataset is on Zenodo: [10.5281/zenodo.23190132](https://doi.org/10.5281/zenodo.23190132) (all
+versions; v1.0.0 = [10.5281/zenodo.23190133](https://doi.org/10.5281/zenodo.23190133)). This repository
+holds everything except the FASTA files.
 
 Each `data/<dataset>/` contains:
 

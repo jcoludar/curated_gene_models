@@ -1,0 +1,52 @@
+# Entries for benjamin-kroeger/gene-calling-benchmark datasets/registry.yaml (v1.0.0).
+# FASTA checksums are of the decompressed content (see MD5SUMS).
+
+  venom_3ftx:
+    description: Snake three-finger toxin loci, curated CDS models (Koludarov et al. 2023).
+    record_id: "23190133"
+    fasta:
+      filename: koludarov2023_3ftx.fasta.gz
+      checksum: md5:2258c9ae4e8fed6f74c33c3b217aaad9
+    annotation:
+      filename: koludarov2023_3ftx.gff3
+      checksum: md5:bef671e7e5efc81df9026768e0ad42a4
+
+  venom_sp:
+    description: Kallikrein-like serine protease loci, curated CDS models (Barua et al. 2021).
+    record_id: "23190133"
+    fasta:
+      filename: barua2021_sp.fasta.gz
+      checksum: md5:d8e1cfb87b9e7b7c0820a41dd332ae93
+    annotation:
+      filename: barua2021_sp.gff3
+      checksum: md5:bc519a7092b906bbe415328a6c933b84
+
+  venom_pla2:
+    description: Group II PLA2 loci, curated CDS models (Koludarov et al. 2019).
+    record_id: "23190133"
+    fasta:
+      filename: koludarov2019_pla2.fasta.gz
+      checksum: md5:531baba1fbc286421f0c9865c8c1e40c
+    annotation:
+      filename: koludarov2019_pla2.gff3
+      checksum: md5:8f830cda08f5c04352530a1d06260baf
+
+  venom_bee:
+    description: Bee venom gene loci, curated CDS models (Koludarov et al. 2023).
+    record_id: "23190133"
+    fasta:
+      filename: koludarov2023_bee.fasta.gz
+      checksum: md5:d920c395076d4baea0a2e8c78a890646
+    annotation:
+      filename: koludarov2023_bee.gff3
+      checksum: md5:07e902651fea8ecd0932255ca05bea62
+
+  venom_ant:
+    description: Ant venom gene loci, curated CDS models (Weitz et al. 2026, pre-publication snapshot).
+    record_id: "23190133"
+    fasta:
+      filename: weitz2026_ant.fasta.gz
+      checksum: md5:638f329cd273ca7d66cffe375da846e8
+    annotation:
+      filename: weitz2026_ant.gff3
+      checksum: md5:7bbbc246ba0513b66699a77a0458f0a5
