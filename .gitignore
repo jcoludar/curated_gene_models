@@ -1,0 +1,3 @@
+# Genome windows live on Zenodo only
+*.fasta.gz
+*.fasta

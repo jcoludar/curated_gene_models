@@ -1,0 +1,69 @@
+doc	name	reason
+Calu_KLK_extraction	Calu_KLK6 (ne3)	not in published list
+Calu_KLK_extraction	Calu_KLK15	interval 210356-210630: no unique exact genome-wide hit
+Calu_KLK_extraction	Calu_KLK1a	not in published list
+Calu_KLK_extraction	KLK_dn_1	not in published list
+Cocr_KLK_extraction	this is a good example  why I hate published annotations	not in published list
+Cocr_KLK_extraction	KLK7	not in published list
+Cocr_KLK_extraction	KLK_8	not in published list
+NC_046319	CDS2	not in published list
+NW_005841958	AlsiT0	not in published list
+NW_005841958	AlsiT1	not in published list
+NW_005841958	AlsiT2	not in published list
+NW_005841958	AlsiT3	not in published list
+NW_005841958	AlsiT4	not in published list
+NW_005841958	AlsiT5	not in published list
+NW_005841958	Alsi_A_07	not in published list
+NW_005841958	AlsiT6	not in published list
+NW_005841958	AlsiT7	not in published list
+NW_005841958	AlsiB7	not in published list
+NW_005842742	AlsiSVL	not in published list
+NW_005842742	AlsiSVL2	not in published list
+NW_006804442	KLK12_the_right_one	not in published list
+NW_015386730.1	XP_015671577.1	not in published list
+NW_015386730.1	XP_015671576.1	not in published list
+NW_015386730.1	XP_015671575.1	not in published list
+NW_015386730.1	XP_015671568.1	not in published list
+NW_015386730.1	XP_015671567.1	not in published list
+NW_015386730.1	XP_015671566.1	not in published list
+NW_015386730.1	Prmu11	not in published list
+NW_015386730.1	XP_015671562.1	not in published list
+NW_015386730.1	XP_015671574.1	not in published list
+NW_015386730.1	XP_015671573.1	not in published list
+NW_015386730.1	Prmu10	not in published list
+NW_015386730.1	XP_015671560.1	not in published list
+NW_015386730.1	XP_015671565.1	not in published list
+NW_015386730.1	Prmu8	not in published list
+NW_015386730.1	XP_015671559.1	not in published list
+NW_015386730.1	Prmu7	not in published list
+NW_015386730.1	XP_015671557.1	not in published list
+NW_015386730.1	Prmu6	not in published list
+NW_015386730.1	XP_015671558.1	not in published list
+NW_015386730.1	Prmu5	not in published list
+NW_015386730.1	XP_015671555.1	not in published list
+NW_015386730.1	Prmu4	not in published list
+NW_015386730.1	XP_015671556.1	not in published list
+NW_015386730.1	Prmu3	not in published list
+NW_015386730.1	XP_015671564.1	not in published list
+NW_015386730.1	Prmu2	not in published list
+NW_015386730.1	Prmu1	not in published list
+NW_015386730.1	XP_015671554.1	not in published list
+NW_015386730.1	XP_015671572.1	not in published list
+NW_015386730.1	XP_015671553.1	not in published list
+NW_015386730.1	XP_015671563.1	not in published list
+NW_015386730.1	XP_015671570.1	not in published list
+NW_015386730.1	XP_015671569.1	not in published list
+NW_015386789	PrmuT1	not in published list
+NW_015386789	PrmuT2	not in published list
+NW_015386789	PrmuT3(ne4)	not in published list
+NW_018344052_extraction	PhciT14	not in published list
+NW_018344052_extraction	Phci_A_02 psi	not in published list
+NW_018344052_extraction	PhciT11	not in published list
+NW_018344052_extraction	PhciT1	not in published list
+SccPlKu_2983;HRSCAF=40496	*	doc not placed (NO_PARENT_RECORD)
+SccPlKu_941;HRSCAF=35573	*	doc not placed (NO_PARENT_RECORD)
+scaffold-mi2	Crvi_A_06 psi	not in published list
+scaffold-mi2	Crvi_A_10b	not in published list
+scaffold1196	*	doc not placed (NO_PARENT_RECORD)
+scaffold37	*	doc not placed (NO_PARENT_RECORD)
+Hosa_KLK_extraction	Hosa_KLK_14	duplicate of Hosa_KLK14

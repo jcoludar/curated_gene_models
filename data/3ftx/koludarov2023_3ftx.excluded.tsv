@@ -1,0 +1,10 @@
+doc	name	reason
+CM019150_extraction	reconstructed_protein_1	not in published list
+CM019150_extraction	Long_chain	not in published list
+CM019150_extraction	Long_chain_wonky	not in published list
+CM019150_extraction	reconstructed_sequence	not in published list
+CM019150_extraction	Reconstructed_sequence_3	not in published list
+CM019150_extraction - Long_chain_remix	Long_chain	not in published list
+CM019150_extraction - Long_chain_wonky	Long_chain_wonky	not in published list
+ScVE01q_1072;HRSCAF=1231	*	doc not placed (NO_PARENT_RECORD)
+NW_015387915 - Prmu_3	Prmu_3	duplicate of Prmu_3
